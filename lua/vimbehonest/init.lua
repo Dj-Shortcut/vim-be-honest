@@ -2,7 +2,8 @@ local M = {}
 
 local defaults = {
   threshold = 5,
-  message = "VimBeHonest: use hjkl instead of arrow keys.",
+  message = "VimBeHonest: Arrow keys detected.
+Vim has better motions.",
 }
 
 local state = {
