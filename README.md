@@ -1,3 +1,6 @@
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 # VimBeHonest
 
 VimBeHonest is a small Neovim plugin that tracks arrow key usage and shows a warning when the count reaches 5. It is intentionally narrow: a lightweight reminder to use `hjkl` without changing how the arrow keys behave.
