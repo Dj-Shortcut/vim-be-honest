@@ -2,8 +2,7 @@ local M = {}
 
 local defaults = {
   threshold = 5,
-  message = "VimBeHonest: Arrow keys detected.
-Vim has better motions.",
+  message = "VimBeHonest: Arrow keys detected. Vim has better motions.",
 }
 
 local state = {
