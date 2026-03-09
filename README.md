@@ -21,15 +21,28 @@ VimBeHonest is a small Neovim plugin that tracks arrow key usage and shows a war
 - No habit-training workflow, scoring, or escalation system.
 - No expanded configuration surface for `v0.1.0`.
 
-## Install
+## Installation
 
-With `lazy.nvim`:
+### lazy.nvim
 
 ```lua
 {
-  "Dj-Shortcut/vim-be-honest",
+  "Dj-Shortcut/vim-be-honest"
 }
 ```
+
+### packer.nvim
+
+```lua
+use "Dj-Shortcut/vim-be-honest"
+```
+
+### vim-plug
+
+```vim
+Plug "Dj-Shortcut/vim-be-honest"
+```
+
 
 The plugin auto-loads through `plugin/vimbehonest.lua`.
 
